@@ -1,0 +1,17 @@
+# Java build outputs
+*.class
+bin/
+out/
+*.jar
+
+# Local generated data
+Medical Clinic  System.txt
+
+# IDE / OS files
+.metadata/
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+.DS_Store
